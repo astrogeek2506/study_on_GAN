@@ -1,6 +1,6 @@
 
 
-Generator:    
+"""Generator:    
 The encoder-decoder architecture consists of:
 encoder:
 C64-C128-C256-C512-C512-C512-C512-C512
