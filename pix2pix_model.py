@@ -1,17 +1,4 @@
-# https://youtu.be/UcHe0xiuvpg
-# https://youtu.be/6pUSZgPJ3Yg
-# https://youtu.be/my7LEgYTJto
-"""
-pix2pix GAN model
 
-Based on the code by Jason Brownlee from his blogs on https://machinelearningmastery.com/
-I seriously urge everyone to foloow his blogs and get enlightened. 
-I am adapting his code to various applications but original credit goes to Jason.
-
-
-    Original paper: https://arxiv.org/pdf/1611.07004.pdf
-    Github for original paper: https://phillipi.github.io/pix2pix/
-    
 
 Generator:    
 The encoder-decoder architecture consists of:
